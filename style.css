@@ -69,7 +69,7 @@
 ---------------------  */
 .players{
     margin-top: 70px;
-    width: 70%;
+    width: 80%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 15px;
